@@ -517,6 +517,10 @@
         top: 0px
     }
 
+    .inst-content {
+        height: 28%
+    }
+
     .main-menu ul li:hover a,
     .main-menu ul li ul.submenu li a,
     .main-menu ul li ul.submenu li:hover>a,
