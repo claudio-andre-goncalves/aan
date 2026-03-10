@@ -645,6 +645,9 @@ p.hover {
 .single-instructor.red .inst-content {
     background: #EA4335
 }
+.single-instructor.orange .inst-content {
+    background: #FFA500;
+}
 
 .blue .inst-content ul li:hover a {
     color: #EA4335
