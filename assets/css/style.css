@@ -582,7 +582,7 @@ p.hover {
     border-top-color: #f6f6f6;
     margin-bottom: 20px;
     border: 1px solid #F6F6F6;
-    padding: 0;
+    padding: 0 0 20px;
     border-bottom: 10px solid #016EC7;
     background: #fff;
 }
